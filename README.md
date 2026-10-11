@@ -24,7 +24,8 @@ Hi, I'm kyatpo, junior web penteter Offensive security enthusiast focused on web
 - 🛡️ **Burp Suite** — intercepting, manipulating requests
 - 💻 **Bash** — scripting & automation
 - **HTTP/HTTPS** — web fundamentals
-
+- **OSINT**
+- **RECON**
 ---
 
 ## What I Know
@@ -35,6 +36,7 @@ Hi, I'm kyatpo, junior web penteter Offensive security enthusiast focused on web
 - **SQL Injection**
 - **XSS**
 - **CSRF**
+- **SESSION/COOKIES HAIJACKING**
 
 ---
 
