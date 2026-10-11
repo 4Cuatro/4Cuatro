@@ -40,9 +40,9 @@ Hi, I'm kyatpo, junior web penteter Offensive security enthusiast focused on web
 
 ## Connect With Me
 
-- Email: **cy6ert3ch.com**
-- GitHub: **github.com/kyatpo**
-- Instagram: **cy6ert3ch@gmail.com**
+- Email: **cy6ert3ch@gmail.com*
+- GitHub: **https://github.com/kyatpo**
+- Instagram: **cy6ert3ch**
 
 ---
 
